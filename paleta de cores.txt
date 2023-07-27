@@ -1,0 +1,14 @@
+/*cores do linear
+#6a22ad-cor da logo
+#8a8cc0-cor do fundo
+
+             TODOS OS ICONS USADOS
+
+             <i class="fa-brands fa-youtube" ></i>
+            <i class="fa-brands fa-facebook"></i>
+            <i class="fa-brands fa-github"></i>
+            <i class="fa-brands fa-linkedin-in"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-cart-shopping"></i>
+*/
+
